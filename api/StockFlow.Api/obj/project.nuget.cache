@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zEvbA70pfq8=",
+  "dgSpecHash": "GmzVnBxiM8Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\StockFlow\\StockFlow.Api\\StockFlow.Api.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\StockFlow\\api\\StockFlow.Api\\StockFlow.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",
